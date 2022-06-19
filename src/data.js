@@ -2,16 +2,7 @@ import { v4 as uuidv4 } from "uuid";
 
 function chillHop() {
     return [
-
-        {
-            name:"Got Radio The 60's",
-            artist: "60's",
-            cover: "http://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq?sABC=5r46783o%230%231o70r21o79929956s30p83402120q5q4%23gharva&amsparams=playerid:tunein;skey:1581676603",
-            id: uuidv4(),
-            color: ["#F24933", "#F9B437"],
-            audio: "http://pureplay.cdnstream1.com/6011_128.mp3",
-            active: true,
-        },
+        
         {
             name:"Soundstorm - Relax Radio",
             artist: "Lounge",
