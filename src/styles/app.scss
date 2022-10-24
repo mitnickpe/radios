@@ -9,8 +9,11 @@ body {
 max-width: 1000px;
 margin: 0px auto;
 position: relative;
-background: linear-gradient(-45deg, #ee7752, #e73c7e, #e5027e, #23d5ab);
-	background-size: 400% 300%;
+/*background: linear-gradient(-45deg, #ee7752, #e73c7e, #e5027e, #23d5ab);
+	background-size: 400% 300%;*/
+	
+	background-image: radial-gradient(circle at 45.38% -2.83%, #ffe4f9 0, #ffd6f2 16.67%, #ffc5e7 33.33%, #efafda 50%, #d99ace 66.67%, #c68bc6 83.33%, #b580c2 100%);
+	
 	animation: gradient 25s ease infinite;
 	
 	@keyframes gradient {
