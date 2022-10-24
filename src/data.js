@@ -4,8 +4,8 @@ function chillHop() {
     return [
 
         {
-            name:"Got Radio The 60's",
-            artist: "60's",
+            name:"Título",
+            artist: "6Subtitulo",
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
