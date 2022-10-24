@@ -5,7 +5,13 @@
 }
 body {
   font-family: "Poppins", sans-serif;
- background: linear-gradient(-45deg, #ee7752, #e73c7e, #f8dd25, #ff4ab3);  background-size: 900% 900%;  animation: gradient 5s ease infinite;  height: 47px; border-radius: 7px; -moz-border-radius: 7px; -webkit-border-radius: 7px;
+ max-width: 1000px;
+margin: 0px auto;
+position: relative;
+/*background-image: linear-gradient(0, #ff6ab8 0, #ff5cb8 16.67%, #ff4cb5 33.33%, #ee36b1 50%, #da1cad 66.67%, #c600ab 83.33%, #b400ac 100%);*/ /* agregado mit */
+background: linear-gradient(-45deg, #ee7752, #e73c7e, #e5027e, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 5s ease infinite;
 }
 .App {
   transition: all 0.5s ease;
