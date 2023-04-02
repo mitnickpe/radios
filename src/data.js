@@ -18,7 +18,7 @@ function chillHop() {
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=22794",
+            audio: "https://www.mediafire.com/file/9z6987b7agkvvov/Tr%25C3%25A9molo_-_El_Payaso.mp3",
             active: false,
         },
         {
