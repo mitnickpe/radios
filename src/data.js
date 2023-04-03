@@ -15,7 +15,7 @@ function chillHop() {
         {
             name:"Soundstorm - Relax Radio",
             artist: "Lounge",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://tremolorock.files.wordpress.com/2023/04/rosas-negras-portada_tremolo.jpg",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://www.mediafire.com/file/9z6987b7agkvvov/Tr%25C3%25A9molo_-_El_Payaso.mp3",
@@ -24,7 +24,7 @@ function chillHop() {
         {
             name:"SomaFM Left Coast 70's",
             artist: "70's",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://tremolorock.files.wordpress.com/2023/04/152e0-portada_detras-de-la-puerta_tremolo-peru.jpg",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "http://ice2.somafm.com/seventies-128-mp3",
@@ -33,7 +33,7 @@ function chillHop() {
         {
             name:"Hotmixradio 80",
             artist: "80's",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://tremolorock.files.wordpress.com/2023/04/tremolo-sin-llorar-2023-1.jpeg",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "http://streaming.hotmixradio.fm/hotmixradio-80-128.mp3?from=tunein",
