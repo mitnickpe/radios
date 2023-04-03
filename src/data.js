@@ -6,7 +6,7 @@ function chillHop() {
         {
             name:"Título",
             artist: "6Subtitulo",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://tremolorock.files.wordpress.com/2023/04/vencera-portada-tremolo.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "https://dc621.4shared.com/img/ztohiMJHfa/520a8639/dlink__2Fdownload_2FztohiMJHfa_2Ff62c7b86_5FOzuna_5FFt_5FFeid_5F-_5FHey_5FM.mp3_3Fsbsr_3D0e56d079203be4daa2e25c2329f542f2ada_26bip_3DMTc5LjYuNTYuMTM0_26lgfp_3D52_26bip_3DMTc5LjYuNTYuMTM0/preview.mp3", 
